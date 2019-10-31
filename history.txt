@@ -1,0 +1,1000 @@
+  645  cp app.js ~/myProject2/
+  646  cp app.js ~/myProject2
+  647  clear
+  648  cd ..
+  649  touch exercise.txt
+  650  ls
+  651  echo $PATH
+  652  ls
+  653  mv exercise.txt /tmp
+  654  ls
+  655  cd ../home
+  656  cd
+  657  ls
+  658  home
+  659  clear
+  660  pwd
+  661  /home/recruit
+  662  /home/
+  663  /home
+  664  clear
+  665  pwd
+  666  ls
+  667  cd /tmp
+  668  ls
+  669  rm exercise.txt
+  670  ls
+  671  cd /Desktop
+  672  cd ../Desktop
+  673  clear
+  674  cd ..
+  675  pwd
+  676  ls
+  677  cd home
+  678  ls
+  679  cd recruit
+  680  ls
+  681  cd Desktop
+  682  ls
+  683  touch umuzi.txt
+  684  touch recruit.txt
+  685  touch cohort.txt
+  686  rm recruit.txt
+  687  ls
+  688  touch recruits.txt
+  689  ls
+  690  cd recruits.txt
+  691  vim recruits.txt
+  692  open ~/Desktop/recruits.txt
+  693  clear
+  694  cat recruits.txt
+  695  echo recruits.txt
+  696  cat -e recruits.txt
+  697  nano _recruits.txt
+  698  nano _umuzi.txt
+  699  nano _cohort.txt
+  700  cat recruits.txt umuzi.txt cohort.txt > concat
+  701  ls
+  702  cd concat
+  703  nano _concat
+  704  cat recruits.txt umuzi.txt cohort.txt 
+  705  find /home/recruit/ -name "myProject"
+  706  find /home/recruit@recruit-ThinkCentre-M70e/ -name "myProject"
+  707  find /home/recruit@recruit/ -name "myProject"
+  708  find /home/recruit/ -name "myProject"
+  709  find . -name cohort.txt
+  710  locate LAMP-Setup.odt
+  711  sudo apt install nodejs
+  712  pwd
+  713  ls
+  714  cd Downloads
+  715  ls
+  716  cd jasmine-standalone-3.4.0
+  717  ls
+  718  cd ..
+  719  ls
+  720  cd jasmine-standalone-3.4.0
+  721  git status
+  722  pwed
+  723  clear()
+  724  clear
+  725  pwd
+  726  ls
+  727  cd Documents
+  728  ls
+  729  cd myFirstGame/
+  730  ls
+  731  touch app.css
+  732  ls
+  733  pwd
+  734  ls
+  735  cd Documents
+  736  ls
+  737  cd myFirstGame/
+  738  git add myFirstGame
+  739  cd ..
+  740  ls
+  741  git add myFirstGame
+  742  clear
+  743  ls
+  744  cd myFirstGame/
+  745  git add 
+  746  git add .
+  747  git commit -m "added icons"
+  748  git push
+  749  pwd
+  750  ls
+  751  cd TDD
+  752  cd TDD-exercises
+  753  ls
+  754  cd TDD
+  755  LS
+  756  ls
+  757  clear
+  758  pwd
+  759  ls
+  760  mkdir PasswordChecker
+  761  ls
+  762  cd PasswordChecker
+  763  ls
+  764  rm -r workspace1
+  765  ls
+  766  touch PasswordCalculatorSpec.js PasswordCalculator.js
+  767  ls
+  768  pwd
+  769  ls
+  770  cd git init
+  771  ls
+  772  cd PasswordChecker/`
+  773  clear
+  774  pwd
+  775  ls
+  776  cd PasswordChecker
+  777  git init
+  778  git add "PasswordChecker"
+  779  pwd
+  780  ls
+  781  cd PasswordChecker
+  782  git remote add origin https://github.com/asradebe/TDD-PasswordChecker.git
+  783  git init
+  784  ls
+  785  git add .
+  786  git commit -m "late submission"
+  787  git remote add origin https://github.com/asradebe/TDD-PasswordChecker.git
+  788  git push -u origin master
+  789  pwd
+  790  ls
+  791  cd Download
+  792  cd Downloads
+  793  ls
+  794  pwd
+  795  ls
+  796  cd MEMORY-GAME/
+  797  LS
+  798  ls
+  799  git status
+  800  git add
+  801  git add src/app.js
+  802  git status
+  803  git init
+  804  git add .
+  805  git commit -m "memory-game-complete"
+  806  git remote add origin https://github.com/asradebe/memory-game-complete.git
+  807  git push -u origin master
+  808  pwd
+  809  ls
+  810  cd StringCalculator/
+  811  ls
+  812  ls -la
+  813  git init
+  814  git add .
+  815  git commit -m "StringCalculator"
+  816  git remote add origin https://github.com/asradebe/TDD-StringCalculator.git
+  817  git push -u origin master
+  818  pwd
+  819  ls
+  820  mkdir OOP cd OOP touch classPerson.js
+  821  mkdir OOP-Assignments cd OOP-Assignments touch classPerson.js
+  822  clear
+  823  pwd
+  824  ls
+  825  cp classPerson.js/OOP-Assignments
+  826  clear
+  827  pwd
+  828  ls
+  829  cd OOP-Assignments/
+  830  ls
+  831  touch classPerson.js
+  832  ls
+  833  pwd
+  834  ls
+  835  cd Downloads
+  836  ls
+  837  cd Dice
+  838  cd dice
+  839  git init
+  840  git add . 
+  841  git commit -m "first commit"
+  842  git remote add origin https://github.com/asradebe/OOP-CHALLENGES.git
+  843  git push -u origin master
+  844  PWD
+  845  pwd
+  846  ls
+  847  cd Node\ \&\ File\ IO/
+  848  ls
+  849  touch classVisitor.js
+  850  ls
+  851  pwd
+  852  ls
+  853  cd Downloads/
+  854  ls
+  855  mkdir uploads
+  856  ls -la uploads/
+  857  xdg-open .
+  858  npm init
+  859  clear
+  860  sudo npm add -g npx
+  861  npm init
+  862  npx jasmine init
+  863  clear
+  864  npm install --save-dev jasmine
+  865  clear
+  866  pwd
+  867  ls
+  868  cd Node\ \&\ File\ IO/
+  869  ls
+  870  touch visitorSpec.js
+  871  jasmine
+  872  sudo npm install -g jasmine
+  873  jasmine
+  874  nano Visitor.js
+  875  pwd
+  876  ls
+  877  cd MEMORY-GAME/
+  878  LS
+  879  ls
+  880  cd spec/
+  881  touch appSpec.js
+  882  ls
+  883  git status
+  884  pwd
+  885  ls
+  886  cd MEMORY-GAME/
+  887  git log
+  888  git status
+  889  git add .
+  890  git status
+  891  git commit -m "untracked file"
+  892  npm i jsdom --save
+  893  pwd
+  894  ls
+  895  mkdir memory-game-tests
+  896  touch App.js
+  897  ls
+  898  clear()
+  899  clear
+  900  ls
+  901  cd memory-game-tests/
+  902  node AppSpec.js
+  903  ls
+  904  node spec/AppSpec.js
+  905  jasmine
+  906  jasmine  spec/AppSpec.js
+  907  clear
+  908  pwd
+  909  cd ..
+  910  pwd
+  911  ls
+  912  cd cd Downloads/
+  913  cd Downloads/
+  914  ls
+  915  cd memory-game-complete/
+  916  ls
+  917  git init
+  918  git add .
+  919  git commit -m "tests"
+  920  git remote add origin https://github.com/asradebe/memoryGameTests.git
+  921  git push -u origin master
+  922  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+  923  sudo apt update
+  924  sudo apt install docker-ce docker-ce-cli containerd.io
+  925  apt-cache madison docker-ce
+  926  sudo apt-get install docker-ce=5:19.03.1~3-0~ubuntu-bionic docker-ce-cli=5:19.03.1~3-0~ubuntu-bionic containerd.io
+  927  sudo groupadd docker
+  928  sudo usermod -aG docker $USER
+  929  pwd
+  930  ls
+  931  mkdir docker-compoFile
+  932  nano
+  933  mkdir docker-compoFile
+  934  cd docker-compoFile
+  935  ls
+  936  nano docker-compose.yaml
+  937  cd  docker-compose.yaml
+  938  docker run hello-world
+  939  sudo apt install docker-compose
+  940  pwd
+  941  ls
+  942  cd docker-compoFile
+  943  docker-compose up
+  944  touch Extra
+  945  mysql -u root -p
+  946  sudo apt install mysql-client-core-5.7   
+  947  mysql -u root -p
+  948  clear
+  949  CREATE DATABASE myStore
+  950  SHOW DATABASES
+  951  clear
+  952  sudo apt-get install mysql-workbench
+  953  clear
+  954  sudo dpkg -i mysql-apt-config_0.5.3-1_all.deb
+  955  docker-compose up
+  956  docker-compose.yaml
+  957  docker-compose.yml
+  958  pwd
+  959  ls
+  960  cd docker-compoFile/
+  961  ls
+  962  sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  963  sudo chmod +x /usr/local/bin/docker-compose
+  964  docker-compose
+  965  docker-compose up
+  966  docker-compose --version
+  967  docker-compose version 1.24.1, build 1110ad01
+  968  sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+  969  pwd
+  970  ls
+  971  mkdir docker-composition
+  972  touch docker-compose.yaml
+  973  ls
+  974  cd docker-composition/
+  975  ls
+  976  touch docker-compose.yaml
+  977  ls
+  978  pwd
+  979  ls
+  980  mkdir Visitors
+  981  ls
+  982  cd  Visitors
+  983  touch Visitor.js
+  984  cd ..
+  985  npm install pg
+  986  sudo npm install pg
+  987  sudo npm install --save pg
+  988  npm i pg
+  989  ls
+  990  cd docker-composition
+  991  npm i pg
+  992  npm init
+  993  npm i pg
+  994  pg -v
+  995  npm install --save pg
+  996  docker run --name (insert name of container) -e POSTGRES_PASSWORD=(enter password) -d postgres
+  997  ancf k
+  998  docker images
+  999  docker run --name  c3fe76fef0a6 -e POSTGRES_PASSWORD= asanda -d postgres
+ 1000  docker run --name  c3fe76fef0a6 -e POSTGRES_PASSWORD= c3fe76fef0a6  -d postgres
+ 1001  docker exec -it (insert container name or code) psql -U postgres
+ 1002  docker exec -it  c3fe76fef0a6    psql -U postgres
+ 1003  docker exec -it  c3fe76fef0a6 psql -U postgres
+ 1004  clear
+ 1005  docker ps
+ 1006  docker exec -it 0a2ad9543f3e psql -U postgres
+ 1007  docker run --name umuzi -e POSTGRES_PASSWORD=pass -d postgres
+ 1008  docker exec -it umuzi psql -U postgres
+ 1009  pwd
+ 1010  ls
+ 1011  cd docker-composition/
+ 1012  \l
+ 1013  \L
+ 1014  clear
+ 1015  \l
+ 1016  docker-compose up
+ 1017  pwd
+ 1018  cd
+ 1019  ls
+ 1020  git clone https://github.com/asradebe/Semitone-challenge.git "semiTone-Challenge1"
+ 1021  ls
+ 1022  cd semiTone-Challenge1/
+ 1023  ls
+ 1024  npm test
+ 1025  npm test
+ 1026  npm i
+ 1027  npm test
+ 1028  pwd
+ 1029  ls
+ 1030  cd StringCalculator/
+ 1031  git init
+ 1032  git add .
+ 1033  git commit -m "Re-submission with fixed specs and indentation"
+ 1034  git push https://github.com/asradebe/TDD-StringCalculatorRe-Submission.git
+ 1035  pwd
+ 1036  ls
+ 1037  cd TDDCalculatorP2/
+ 1038  git init
+ 1039  git add .
+ 1040  git commit -m "removed all console.logs"
+ 1041  git push https://github.com/asradebe/TDD-CalculatorP2Re-Submission.git
+ 1042  git push --set-upstream https://github.com/asradebe/TDD-CalculatorP2Re-Submission.git master
+ 1043  git push https://github.com/asradebe/TDD-CalculatorP2Re-Submission.git
+ 1044  git push origin https://github.com/asradebe/TDD-CalculatorP2Re-Submission.git
+ 1045  git branch
+ 1046  git push
+ 1047  cd ..
+ 1048  mkdir dev
+ 1049  cd dev
+ 1050  git clone https://github.com/asradebe/TDD-CalculatorP2Re-Submission.git
+ 1051  ls
+ 1052  cd TDD-CalculatorP2Re-Submission/
+ 1053  code .
+ 1054  clear
+ 1055  cd ../
+ 1056  ls
+ 1057  cd TDD-CalculatorP2Re-Submission/
+ 1058  ls
+ 1059  git add .
+ 1060  git commit -m "removed all console.logs and fixed indentation"
+ 1061  git push https://github.com/asradebe/TDD-CalculatorP2Re-Submission.git
+ 1062  pwd
+ 1063  ls
+ 1064  cd dev
+ 1065  git clone https://github.com/asradebe/TDD-exercise-functions.git
+ 1066  ls
+ 1067  code .
+ 1068  clear
+ 1069  ls
+ 1070  cd TDD-CalculatorP2Re-Submission/
+ 1071  cd TDD-CalculatorP1
+ 1072  cd ../
+ 1073  ls
+ 1074  cd TDD-CalculatorP1
+ 1075  git add .
+ 1076  git commit -m "Part1Calculator"
+ 1077  git status
+ 1078  git log
+ 1079  git push https://github.com/asradebe/TDD-CalculatorP1Re-submission.git
+ 1080  pwd
+ 1081  ls
+ 1082  cd dev
+ 1083  git clone https://github.com/TauRamodise/Semitone-challenge.git
+ 1084  ls
+ 1085  cd Semitone-challenge/
+ 1086  ls
+ 1087  git add .
+ 1088  git commit -m "all semitone challenges related"
+ 1089  git push https://github.com/asradebe/Semitone-challenge.git
+ 1090  ols
+ 1091  clear
+ 1092  ls
+ 1093  cd PC
+ 1094  ls
+ 1095  cd errors/
+ 1096  ls
+ 1097  touch errors.js
+ 1098  npm i jasmine
+ 1099  npm i -g jasmine
+ 1100  sudo npm i -g jasmine
+ 1101  ls
+ 1102  clear
+ 1103  jasmine spec/PasswordCalculatorSpec.js 
+ 1104  pwd
+ 1105  ls
+ 1106  cd PasswordChecker/
+ 1107  ls
+ 1108  git add .
+ 1109  git commit -m "fixed errors"
+ 1110  git push https://github.com/asradebe/TDD-PasswordCheckerRe-submission.git
+ 1111  pwd
+ 1112  ls
+ 1113  cd Dev
+ 1114  cd dev
+ 1115  ls
+ 1116  cd Semitone-challenge/
+ 1117  ls
+ 1118  cd dev
+ 1119  ls
+ 1120  cd Semitone-challenge/
+ 1121  ls
+ 1122  cs semitone-part
+ 1123  cd semitone-part
+ 1124  code .
+ 1125  pwd
+ 1126  ls
+ 1127  cd dev
+ 1128  ls
+ 1129  cd semitone-challenge
+ 1130  cd Semitone-challenge
+ 1131  ls
+ 1132  mv semitoneGuiSpec.js semitone-part2
+ 1133  ls
+ 1134  cd semitone-part2
+ 1135  ls
+ 1136  git init
+ 1137  git add .
+ 1138  git log
+ 1139  git commit -m "untracked files"
+ 1140  git log
+ 1141  git status
+ 1142  jasmine semitoneGuiSpec.js
+ 1143  jasmine semitoneGuiSpec.js
+ 1144  jasmine semitoneGuiSpec.js
+ 1145  ls
+ 1146  cd semitone-part2
+ 1147  jasmine semitoneGuiSpec.js
+ 1148  ls
+ 1149  cd semitone-part2
+ 1150  ls
+ 1151  jasmine semitoneGuiSpec.js
+ 1152  ls
+ 1153  cd semitone-part1
+ 1154  ls
+ 1155  jasmine semitoneGuiSpec.js
+ 1156  ls
+ 1157  cd semitone-part
+ 1158  cd semitone-part2
+ 1159  ls
+ 1160  jasmine semitoneGuiSpec.js
+ 1161  pwd
+ 1162  ls
+ 1163  cd semiTone-Challenge1/
+ 1164  ls
+ 1165  cd ../
+ 1166  ls
+ 1167  cd dev
+ 1168  ls
+ 1169  cd Semitone-challenge/
+ 1170  ls
+ 1171  cd semitone-part2
+ 1172  ls
+ 1173  git init
+ 1174  git add .
+ 1175  git commit "flats and sharps"
+ 1176  git commit -m "flats and sharps"
+ 1177  git push git remote add origin https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1178  git push -u origin master
+ 1179  git push
+ 1180  git push origin master
+ 1181  clear
+ 1182  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1183  git push --set-upstream https://github.com/asradebe/SemitoneAdvancedAlgorithm.git master
+ 1184  git log
+ 1185  git status
+ 1186  clear
+ 1187  ls
+ 1188  cd ../
+ 1189  ls
+ 1190  cd semitone-part2
+ 1191  ls
+ 1192  clear
+ 1193  cd ../
+ 1194  ls
+ 1195  cd AdvancedAlgorithm/
+ 1196  git add .
+ 1197  git commit -m "advanced"
+ 1198  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1199  cd ../
+ 1200  ls
+ 1201  git clone https://github.com/asradebe/Semitone-challenge.git
+ 1202  ls
+ 1203  cd Semitone-challenge
+ 1204  ls
+ 1205  clear
+ 1206  git status
+ 1207  clear
+ 1208  cd ../
+ 1209  ls
+ 1210  cd AdvancedAlgorithm/
+ 1211  git init
+ 1212  git add .
+ 1213  git commit -m "so many mistakes"
+ 1214  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1215  git push --set-upstream
+ 1216  git push --set-upstream https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1217  git log
+ 1218  git status
+ 1219  clear
+ 1220  clea
+ 1221  git push git remote add origin https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1222  clear
+ 1223  git push git remote add origin https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1224  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1225  pwd
+ 1226  ls
+ 1227  cd dev/
+ 1228  ls
+ 1229  git clone https://github.com/asradebe/OOP-CHALLENGES.git
+ 1230  pwd
+ 1231  ls
+ 1232  cd dev
+ 1233  ls
+ 1234  git clone https://github.com/TauRamodise/Semitone-challenge.git
+ 1235  code .
+ 1236  git clone https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1237  clear
+ 1238  ls
+ 1239  cd AdvancedAlgorithm/
+ 1240  git init
+ 1241  ls
+ 1242  git init
+ 1243  git add .
+ 1244  git commit -m "fixed advanced algorithm"
+ 1245  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1246  pwd
+ 1247  ls
+ 1248  cd dev
+ 1249  ls
+ 1250  git clone https://github.com/TauRamodise/Semitone-challenge.git
+ 1251  ls
+ 1252  cd dev
+ 1253  ls
+ 1254  git clone https://github.com/TauRamodise/Semitone-challenge.git
+ 1255  ls
+ 1256  cd Semitone-challenge/
+ 1257  ls
+ 1258  cd semitone-part4
+ 1259  git init
+ 1260  git add .
+ 1261  git commit -m "semi-Gui"
+ 1262  git push https://github.com/asradebe/Semitone-challenge.git
+ 1263  git push --set-upstream https://github.com/asradebe/Semitone-challenge.git master
+ 1264  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1265  clear
+ 1266  cd ../
+ 1267  pwd
+ 1268  ls
+ 1269  cd dev
+ 1270  ls
+ 1271  cd AdvancedAlgorithm/
+ 1272  ls
+ 1273  git add semitone-part4
+ 1274  git init
+ 1275  git add semitone-part4
+ 1276  git commit -m "more awesome Gui"
+ 1277  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1278  ls
+ 1279  cd semitone-part4
+ 1280  ls
+ 1281  git add .
+ 1282  git init
+ 1283  git add .
+ 1284  git commit -m "more awesome Gui"
+ 1285  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1286  git log
+ 1287  git commit -m "more awesome Gui"
+ 1288  ls
+ 1289  cd ../
+ 1290  ls
+ 1291  git init
+ 1292  cd semitone-part4
+ 1293  ls
+ 1294  git add .
+ 1295  git commit -m "Gui"
+ 1296  git push
+ 1297  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1298  clear
+ 1299  cd ../
+ 1300  ls
+ 1301  git clone https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1302  clear
+ 1303  ls
+ 1304  cd SemitoneAdvancedAlgorithm/
+ 1305  ls
+ 1306  git init
+ 1307  git add .
+ 1308  git commit -m "Gui"
+ 1309  git status
+ 1310  git log
+ 1311  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1312  cd ../
+ 1313  ls
+ 1314  git clone https://github.com/TauRamodise/Semitone-challenge.git
+ 1315  ls
+ 1316  clear
+ 1317  ls
+ 1318  cd SemitoneAdvancedAlgorithm/
+ 1319  ls
+ 1320  git init
+ 1321  git add .
+ 1322  git commit -m "Gui"
+ 1323  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1324  clear
+ 1325  ls
+ 1326  cd semitone-part4
+ 1327  ls
+ 1328  git init
+ 1329  git add .
+ 1330  git commit -m "awesome semi-Gui"
+ 1331  git push git remote add origin https://github.com/asradebe/AwesomeGui.git
+ 1332  git push -u origin master
+ 1333  clear
+ 1334  cd ../
+ 1335  ls
+ 1336  cd semitone-part4/
+ 1337  ls
+ 1338  git push -u origin master
+ 1339  git add .
+ 1340  git commit -m "more awesome simple Gui"
+ 1341  pwd
+ 1342  ls
+ 1343  cd dev
+ 1344  ls
+ 1345  cd SemitoneAdvancedAlgorithm/
+ 1346  ls
+ 1347  git clone https://github.com/TauRamodise/Semitone-challenge.git
+ 1348  ls
+ 1349  cd Semitone-challenge/
+ 1350  ls
+ 1351  git init
+ 1352  git add .
+ 1353  git commit -m "AwesomeGui"
+ 1354  git push https://github.com/asradebe/SemitoneAdvancedAlgorithm.git
+ 1355  clear
+ 1356  pwd
+ 1357  cd ../
+ 1358  ls
+ 1359  cd ../
+ 1360  cd 
+ 1361  ls
+ 1362  cd dev
+ 1363  clear
+ 1364  ls
+ 1365  cd SemitoneAdvancedAlgorithm/
+ 1366  ls
+ 1367  git clone https://github.com/TauRamodise/Semitone-challenge.git
+ 1368  ls
+ 1369  cd Semitone-challenge/
+ 1370  ls
+ 1371  clear
+ 1372  git init
+ 1373  git add .
+ 1374  git commit -m "A awesome-gui"
+ 1375  git push https://github.com/asradebe/Semitone-challenge.git
+ 1376  cd ../
+ 1377  sudo lshw
+ 1378  CD ../
+ 1379  cd ../
+ 1380  sudo lshw
+ 1381  node -v
+ 1382  npm -v
+ 1383  mkdir simpleApi
+ 1384  cd simpleApi
+ 1385  npm init
+ 1386  npm install express --save
+ 1387  npm install body-parser --save
+ 1388  npm install faker --save
+ 1389  pwd
+ 1390  ls
+ 1391  cd simpleApi/
+ 1392  ls
+ 1393  git init
+ 1394  git add .
+ 1395  git commit -m "Api"
+ 1396  git remote add origin https://github.com/asradebe/ExpressApi.git
+ 1397  git push -u origin master
+ 1398  ls
+ 1399  pwd
+ 1400  ls
+ 1401  pwd
+ 1402  1s
+ 1403  man pwd
+ 1404  ls
+ 1405  pwd
+ 1406  mkdir
+ 1407  pwd
+ 1408  touch excercise.md
+ 1409  mv excercise.md /t,
+ 1410  mv excercise.md /tmp
+ 1411  pwd
+ 1412  ls
+ 1413  ~
+ 1414  cd ~
+ 1415  ls
+ 1416  locate tmp
+ 1417  cd ~/v
+ 1418  mv /tmp recruit
+ 1419  recruit@recruit-ThinkCentre-M70e:~$ ls
+ 1420  'Gallant - Ology (2016)'    Pictures              Videos
+ 1421  recruit@recruit-ThinkCentre-M70e:~$ pwd
+ 1422  /home/recruit
+ 1423  recruit@recruit-ThinkCentre-M70e:~$ mkdir workspace
+ 1424  mkdir: cannot create directory ‘workspace’: File exists
+ 1425  recruit@recruit-ThinkCentre-M70e:~$ rmdir workspace
+ 1426  recruit@recruit-ThinkCentre-M70e:~$ mkdir wokspace> 
+ 1427  recruit@recruit-ThinkCentre-M70e:~$ 
+ 1428  recruit@recruit-ThinkCentre-M70e:~$ rmdir wokspace
+ 1429  recruit@recruit-ThinkCentre-M70e:~$ clear
+ 1430  recruit@recruit-ThinkCentre-M70e:~$ ls
+ 1431  'Gallant - Ology (2016)'    PasswordChecker       tech-department
+ 1432  recruit@recruit-ThinkCentre-M70e:~$ pwd
+ 1433  /home/recruit
+ 1434  recruit@recruit-ThinkCentre-M70e:~$ mkdir workspace
+ 1435  recruit@recruit-ThinkCentre-M70e:~$ cd
+ 1436  recruit@recruit-ThinkCentre-M70e:~$ ls
+ 1437  'Gallant - Ology (2016)'    Pictures              Videos
+ 1438  recruit@recruit-ThinkCentre-M70e:~$ cd workspace
+ 1439  recruit@recruit-ThinkCentre-M70e:~/workspace$ touch README.md
+ 1440  recruit@recruit-ThinkCentre-M70e:~/workspace$ cp README.md CHANGELOG.md
+ 1441  recruit@recruit-ThinkCentre-M70e:~$ ls
+ 1442  'Gallant - Ology (2016)'    Pictures              Videos
+ 1443  recruit@recruit-ThinkCentre-M70e:~$ pwd
+ 1444  /home/recruit
+ 1445  recruit@recruit-ThinkCentre-M70e:~$ mkdir workspace
+ 1446  mkdir: cannot create directory ‘workspace’: File exists
+ 1447  recruit@recruit-ThinkCentre-M70e:~$ rmdir workspace
+ 1448  recruit@recruit-ThinkCentre-M70e:~$ mkdir wokspace> 
+ 1449  recruit@recruit-ThinkCentre-M70e:~$ 
+ 1450  recruit@recruit-ThinkCentre-M70e:~$ rmdir wokspace
+ 1451  recruit@recruit-ThinkCentre-M70e:~$ clear
+ 1452  recruit@recruit-ThinkCentre-M70e:~$ ls
+ 1453  'Gallant - Ology (2016)'    PasswordChecker       tech-department
+ 1454  recruit@recruit-ThinkCentre-M70e:~$ pwd
+ 1455  /home/recruit
+ 1456  recruit@recruit-ThinkCentre-M70e:~$ mkdir workspace
+ 1457  recruit@recruit-ThinkCentre-M70e:~$ cd
+ 1458  recruit@recruit-ThinkCentre-M70e:~$ ls
+ 1459  'Gallant - Ology (2016)'    Pictures              Videos
+ 1460  recruit@recruit-ThinkCentre-M70e:~$ cd workspace
+ 1461  recruit@recruit-ThinkCentre-M70e:~/workspace$ touch README.md
+ 1462  recruit@recruit-ThinkCentre-M70e:~/workspace$ cp README.md CHANGELOG.md
+ 1463  cd /tmp/
+ 1464  ls
+ 1465  cd ..
+ 1466  rm /tmp/excercide.md
+ 1467  rm /tmp/excercise.md
+ 1468  cd workspace
+ 1469  cd ~/workspace/
+ 1470  touch umuzi.md recruits.md cohort.md
+ 1471  cat > umuzi.md
+ 1472  cat > recruits.md
+ 1473  cat . cohort.md
+ 1474  cat > cohort.md
+ 1475  cat > umuzi.md recruits.md cohort.md
+ 1476  cat umuzi.md recruits.md cohort.md
+ 1477  cat umuzi.md recruits.md cohort.md> summary.md
+ 1478  cat >> summary.md 
+ 1479  locate umuzi
+ 1480  locate umuzi > search_result.md
+ 1481  cd /document
+ 1482  cd ./
+ 1483  ../
+ 1484  cd ..
+ 1485  ls
+ 1486  cd Documents
+ 1487  ls
+ 1488  pwd
+ 1489  touch pad.md
+ 1490  pwd
+ 1491  cd Desktop
+ 1492  cd ..
+ 1493  cd Desktop
+ 1494  mkdir work
+ 1495  cd Documents
+ 1496  cd ..
+ 1497  cd Documents
+ 1498  cp pad.md copy_pad.md
+ 1499  mv copy_pad.md Desktop
+ 1500  locate updatedb
+ 1501  cd -
+ 1502  locate copy_pad.md
+ 1503  locate pdf
+ 1504  pwd
+ 1505  mkdir clearance
+ 1506  locate pdf
+ 1507  locate *.pdf
+ 1508  locate *.pdf | tee mkdir clea
+ 1509  ls
+ 1510  cat clea
+ 1511  locate *.pdf | tee mkdir clea
+ 1512  sudo apt install nano
+ 1513  mkdir my_files
+ 1514  mv my bio my_files
+ 1515  mv my bio.md my_files
+ 1516  cd ..
+ 1517  cd my_files
+ 1518  mkdir my_files
+ 1519  history
+ 1520  nano my bio.md
+ 1521  cat my bio.md
+ 1522  nano
+ 1523  cat my bio.md
+ 1524  touch my_bio.md
+ 1525  nano
+ 1526  nano my_bio.md
+ 1527  clear
+ 1528  nano
+ 1529  clear
+ 1530  sudo dnf git - all
+ 1531  sudo apt install git - all
+ 1532  clear
+ 1533  mkdir git-basic-exercise
+ 1534  cd git-basic-exercise/
+ 1535  git init
+ 1536  sudo apt install git - all
+ 1537  sudo dnf install git - all
+ 1538  sudo
+ 1539  git --version
+ 1540  git log
+ 1541  clear
+ 1542  pwd
+ 1543  cd
+ 1544  cd ..
+ 1545  ~/git-basic-excercise
+ 1546  Clear
+ 1547  clear
+ 1548  mkdir git-basic-excercise
+ 1549  clear
+ 1550  mkdir git-basic-excercise
+ 1551  sudo dnf git - all
+ 1552  sudo apt install git-all
+ 1553  mkdir git-basic-excercise
+ 1554  lws
+ 1555  ls
+ 1556  cd recruit/
+ 1557  ls
+ 1558  cd Documents/
+ 1559  mkdir git-basic-excercise
+ 1560  cd
+ 1561  ls -a
+ 1562  cd ..
+ 1563  ~/git-basic-excercise
+ 1564  /home/recruit/Documents
+ 1565  clear
+ 1566  ls
+ 1567  pwd
+ 1568  cd ..
+ 1569  cd
+ 1570  clear
+ 1571  ~/Documents/git-basic-excercise
+ 1572  cd git-basic-excercise
+ 1573  clear
+ 1574  cd
+ 1575  pwd
+ 1576  mkdir git-basic-excercise
+ 1577  ls -a
+ 1578  ls
+ 1579  cd git-basic-excercise/
+ 1580  ls
+ 1581  ls -a
+ 1582  cd ..
+ 1583  CD git-basic-excercise/
+ 1584  cd git-basic-excercise/
+ 1585  git init
+ 1586  ls -a
+ 1587  git status
+ 1588  touch README.md
+ 1589  git status
+ 1590  ls-a
+ 1591  ls -a
+ 1592  git status
+ 1593  git log
+ 1594  git add README.md 
+ 1595  git status
+ 1596  git commit -m "initial commit"
+ 1597  git log
+ 1598  q
+ 1599  sudo snap install q
+ 1600  git log
+ 1601  nano README.md 
+ 1602  cat README.md 
+ 1603  git status
+ 1604  git commit -m "second commit"
+ 1605  git log
+ 1606  git add.
+ 1607  git add
+ 1608  git add .
+ 1609  git commit -m "second commit"
+ 1610  git log
+ 1611  git add .
+ 1612  git commit -m "third commit"
+ 1613  git log
+ 1614  git checkout 4ebef61cb0ba5356b423c6b504f0c21b474d1b00
+ 1615  cat README.md 
+ 1616  git checkout master
+ 1617  cat README.md 
+ 1618  git branch
+ 1619  git branch milkshake-flavours
+ 1620  git branch
+ 1621  git checkout milkshake-flavours
+ 1622  git branch
+ 1623  nano milkshakes.md
+ 1624  git status
+ 1625  git add .
+ 1626  git commit -m "third commit"
+ 1627  git add .
+ 1628  git commit -m "added initial flavours"
+ 1629  git log
+ 1630  branch checkout
+ 1631  checkout branch master
+ 1632  git branch
+ 1633  git checkout milkshake-flavours
+ 1634  git checkout master
+ 1635  git branch
+ 1636  git branch history
+ 1637  git branch
+ 1638  git log
+ 1639  git branch
+ 1640  git branch history
+ 1641  git chckout history
+ 1642  git checkout history
+ 1643  git log
+ 1644  history > history.txt
